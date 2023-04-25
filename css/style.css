@@ -43,6 +43,8 @@ box-sizing: border-box;
 }
 
 
+
+
 @keyframes pipe-animation {
     from {
         right: -80px;
@@ -82,10 +84,10 @@ box-sizing: border-box;
 @keyframes clouds-animation {
 
     from {
-        rigth: -550px;
+        right: -550px;
     }
 
     to {
-        rigth: 100%;
+        right: 100%;
     }
 }
